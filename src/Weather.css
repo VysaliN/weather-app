@@ -1,0 +1,30 @@
+.weather{
+    background-color: rgb(231, 183, 121);
+    height:100vh;
+    margin-top: -25px;
+    }
+h1{
+    margin-bottom: 80px;
+}
+input[type="text"]
+{
+    padding:10px;
+    outline: none;
+    border: 1px solid grey;
+    border-radius:20px ;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+}
+input[type="submit"]
+{
+    padding:5px;
+    cursor: pointer;
+    background-color: rgb(14, 107, 53);
+    margin-top: 30px;
+    color:white;
+    border:none;
+    padding:10px;
+}
+h2{
+    color: brown;
+}
